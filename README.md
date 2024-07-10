@@ -7,3 +7,5 @@ It also including photo of the finished dish after heading section.
 In the feature I want to add css styles to this page for making it looks 
 more beautiful.
 I lern html and git by creating this simple site.
+## v.2.0
+I style site a little bit by adding margins, paddings, borders and colors. Now it looks nicer.
